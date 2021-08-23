@@ -34,9 +34,6 @@ public class Calendar {
 		}
 		
 		System.out.println("The End");
-
-		// cal.printSampleCalendar();
-
 		scanner.close();
 
 	}
